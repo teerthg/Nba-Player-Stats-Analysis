@@ -26,6 +26,11 @@ The dataset contains individual player statistics for the **2024-2025 NBA season
 - **Minutes Played (MIN)**
 - and more...
 
+- ## Contact Information:
+- Email: teerth.gupta@example.com
+- LinkedIn: [Teerth Gupta](https://www.linkedin.com/in/teerthgupta/)
+
+
 ## Outlier Detection for Points Scored:
 Outliers in the dataset were detected for the **points scored** attribute using statistical methods:
 - **Interquartile Range (IQR)**: The IQR method was used to identify players who scored significantly more or fewer points than the majority of players in the dataset. Players with points outside the IQR bounds were flagged as outliers.
