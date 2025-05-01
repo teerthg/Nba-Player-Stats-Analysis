@@ -27,9 +27,9 @@ The dataset contains individual player statistics for the **2024-2025 NBA season
 - and more...
 
 - ## Contact Information:
-- Email: teerth.gupta@example.com
-- LinkedIn: [Teerth Gupta](https://www.linkedin.com/in/teerthgupta/)
-
+- Email: teerthgupta19@gmail.com
+- LinkedIn:[https://www.linkedin.com/in/teerth-gupta-52a248243/]
+- Name-Teerth Gupta
 
 ## Outlier Detection for Points Scored:
 Outliers in the dataset were detected for the **points scored** attribute using statistical methods:
